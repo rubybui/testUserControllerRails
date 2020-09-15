@@ -4,8 +4,10 @@ one:
   title: MyString
   content: MyString
   user: one
+  subreddit: one
 
 two:
   title: MyString
   content: MyString
   user: two
+  subreddit: one
